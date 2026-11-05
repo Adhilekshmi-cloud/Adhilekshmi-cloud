@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Adhilekshmi R 👋
 
-<!--
-**Adhilekshmi-cloud/Adhilekshmi-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+Final-year B.Tech Computer Science student specializing in
+Artificial Intelligence at Providence College of Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building AI-powered applications and full-stack
+web solutions that solve real-world problems.
+
+### 💻 Technical Skills
+
+- Languages: Python, JavaScript, C, SQL
+- Frontend: React, Next.js, HTML, CSS, Tailwind CSS
+- Backend: FastAPI, Node.js
+- AI/ML: Machine Learning, Deep Learning, LangChain, RAG
+- Databases: PostgreSQL, Supabase, MongoDB
+- Tools: Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+- EcoMesh – AI-powered sustainability platform
+- TaxShield – Multi-agent AI platform for GST notice responses
+- LabmateAI – AI assistant for laboratory exam preparation
+- Order Assistant – AI-powered order management assistant
+
+### 📫 Connect with Me
+
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/adhilekshmi-r-0449a22b7/)
+- Portfolio: Coming soon
