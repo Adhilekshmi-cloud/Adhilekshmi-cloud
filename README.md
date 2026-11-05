@@ -26,5 +26,5 @@ web solutions that solve real-world problems.
 
 ### 📫 Connect with Me
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/adhilekshmi-r-0449a22b7/)
-- Portfolio: Coming soon
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/adhilekshmi-r-0449a22b7)
+- Portfolio: [My Portfolio](https://poetic-unicorn-0a6f36.netlify.app/)
